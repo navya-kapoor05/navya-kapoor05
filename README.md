@@ -3,9 +3,9 @@
 # 👋 Hey, I'm Navya!
 
 ### 💻 Software Developer • 🎨 UI/UX Designer • ☁️ Cloud Enthusiast • 🚀 Builder
-
+<!--
 <img src="https://komarev.com/ghpvc/?username=navyavohra&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-
+-->
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Turning%20Ideas%20Into%20Reality&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
